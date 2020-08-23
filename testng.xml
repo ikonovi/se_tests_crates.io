@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="The Rust community’s crate registry">
+    <test name="Test Task">
+        <classes>
+            <class name="ik.tests.Script1Test"/>
+            <class name="ik.tests.Script2Test"/>
+        </classes>
+    </test>
+</suite>
+
